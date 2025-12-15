@@ -1,1 +1,1 @@
-# Machine-learning-internship-daily-internships-
+# Machine-learning-internship-daily-activities
